@@ -1,0 +1,10 @@
+tup1=(10,8,9)
+tup2=(3,4,7)
+tup3=tup1+tup2
+print(tup3)
+tup3=tup3+tup3
+print(tup3)
+t_combine=tup3
+print(t_combine[2])
+print(t_combine[0:3])
+print(t_combine[len(t_combine)-3:len(t_combine)])

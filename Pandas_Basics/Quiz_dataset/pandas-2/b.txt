@@ -1,0 +1,32 @@
+Demand-curve slope
+No, every point on the demand curve do not exhibit the same slope elasticity. Slope elasticity is just a model, we have made to study the effect of price on the demand of goods and services. This model is very useful and logical in terms of real-world usage as in general economics prices and other factors don't change abruptly over a short period of time ,and we can model that change linearly which helps in our conclusion ,policies, planning etc.
+
+However, in real-world the demand price curve depends on a lot of factors that change at every time, like income, weather, competitors, modern-substitutes, incentives, supply etc.
+
+Like we can look at the demand for toothpaste. Let us suppose the manufacturer increased the price of toothpaste abruptly. The demand curve assumed with constant elasticity will cut the demand by 30percent for a price increase of 60percent(suppose).As it was observed that on an increase of 10percent price the demand only slumped by 5percent.
+
+But if we look at the real-world scenario this hypothesis will be completely invalid as in general toothpaste targets a larger population, On this much increase in price either the competitors will take on the market or in case of monopolistic control, consumers will start to consume much less than they used to do and the product demand may slump abruptly.
+
+Hence we cannot conclude the price elasticity of the curve should remain constant.
+
+
+
+Airline ticket
+
+
+Highly-elastic-range
+Now airline company to position itself has to deal with competition like rail-bus services, season, and other peer companies. In India, most travel is done by trains and busses and their cheap availability positions airlines in a highly elastic category(considering economy class). A short decrement in price may attract a lot of Upper-class train travelers and vice-versa. So, it would be the most rational for the company to price the airline ticket as low as possible to just operate at sustenance levels. However, India being a festive country witness an upsurge in flight requirements particularly in times of festivals and kids' vacations, which makes the airline demand less elastic making it the best time to increase prices and get maximum profit.
+
+The price can also be managed according to the time of booking. For advanced bookings the customer has a lot of choices but when we look at emergency booking i.e. 15-20 days prior booking it must be a necessity and bus and train transports are generally incompatible or overbooked in such cases. Therefore, price can be increased based on the number of days left for booking.
+
+Luxury-Range
+Premium class tickets particularly cater the luxury aspirations of the people and we know that luxury items have a demand elasticity nearly inelastic. So, keeping in mind the luxury and aspirational aspects and experience for rich people. Facilities like luxury lunch , coupe, window ,etc. can be provided to enhance the experience and at a much higher cost as supply of the commodity is very scarce in the airplane and controlled by the airlines only. So, rich would afford the luxury and for the people with necessities a cheap standard option should be provided.
+
+Cross-elasticity 
+Also taking advantage of cross elasticity in the demand-supply curve of other commodities, a good amount can be charged from the customers in waiting areas, lounges, food, and luggage services, by lowering the price of tickets a little and luring the customer to then buy unnecessary items in the flight based on the data.
+
+Necessity-products.
+A lot of people forget to buy souvenirs for their visit a hefty amount can be charged from the customers with a display of attractive souvenirs in the flight waiting room as at that time it will be a necessity at such moments and demand price curve will be inelastic. From the perspective of consumer it will be a race against time decisions.
+
+Kids-products
+Kids are in general very demanding if they find something very nice and attractive airlines can place such products at critical emergency points where generally customers are in hustle or special announcements nearing the flight time again makes the product demand high because it becomes a necessity  for the customer to save time rather calm the kids
